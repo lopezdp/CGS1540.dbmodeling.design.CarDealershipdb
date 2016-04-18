@@ -1,5 +1,5 @@
 #Group 3 – Project.db
-#David Lopez, Jose Zapata, Reinaldo Seguinot, Regina Wilson, Bryan Bastida
+#David Lopez
 #mySQL database schema
 
 create database if not exists Vehicle_Dealership_dbProject;
